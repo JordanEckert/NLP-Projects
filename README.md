@@ -3,7 +3,3 @@ This repository is a variation of my internship work for Summer 2022 at Regions 
 
 This repository is split into two separate NLP projects - topic modeling and sentiment analysis.
 
-## Topic Modeling
-
-## Sentiment Analysis
-
